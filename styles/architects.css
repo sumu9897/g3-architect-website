@@ -30,6 +30,11 @@
     border-radius: 8px;
     border: none;
 }
+
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
 /* Header styles */
 
 /* Navbar related styles */
