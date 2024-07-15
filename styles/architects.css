@@ -118,3 +118,13 @@ main > section {
     }
 
 }
+
+/* Medium Device */
+@media screen and (min-width: 577px) and (max-width: 992px){
+    .teams{
+        flex-direction: column;
+    }
+    .our-features{
+        margin: 50px auto;
+    }
+}
