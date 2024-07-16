@@ -190,6 +190,13 @@ main > section {
 .sponsors-companies img{
     filter: grayscale(100%);
 }
+footer{
+    background-color:rgb(255, 244, 231); 
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+    padding-top: 40px;
+}
 /* Responsive Media Query */
 @media screen and (max-width: 576px){
     .navbar, .nav-links,.teams,
